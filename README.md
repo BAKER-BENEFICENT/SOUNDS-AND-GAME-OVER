@@ -1,1 +1,2 @@
-# SOUNDS-AND-GAME-OVER
+# PiratesInvasionStage-5
+added sprite animation
